@@ -29,7 +29,7 @@
 				"artistLink": "https:/vk/1231"
 			},
 			"pictures": {
-				"coverPicture": "docs/images/oneMoreTime_1x.jpg"
+				"coverPicture": "./images/oneMoreTime_1x.jpg"
 			},
 			"album": {
 				"coverAlbum": "Обложка альбома"
@@ -37,7 +37,7 @@
 			"audio": {
 				"title": "Baby One More Time",
 				"lyrics": "Another sample lyrics...",
-				"audioFileLink": "docs/audio/BritneySpears-BabyOneMoreTime.mp3",
+				"audioFileLink": "./audio/BritneySpears-BabyOneMoreTime.mp3",
 				"duration": 210
 			}
 		},
@@ -49,8 +49,8 @@
 				"artistLink": "https://vk.com/artist/atl"
 			},
 			"pictures": {
-				"coverPicture": "docs/images/trackFirst_1x.png",
-				"coverPicture2x": "docs/images/trackFirst_2x.png"
+				"coverPicture": "./images/trackFirst_1x.png",
+				"coverPicture2x": "./images/trackFirst_2x.png"
 			},
 			"album": {
 				"coverAlbum": "Обложка альбома"
@@ -58,7 +58,7 @@
 			"audio": {
 				"title": "Фильтр",
 				"lyrics": "Another sample lyrics...",
-				"audioFileLink": "docs/audio/test.mp3",
+				"audioFileLink": "./audio/test.mp3",
 				"duration": 139,
 				"audioDetailLink": "https://vk.com/audio-2001056819_122056819"
 			}
