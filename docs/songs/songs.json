@@ -8,7 +8,7 @@
 				"artistLink": "https://vk.com/artist/britneyspears"
 			},
 			"pictures": {
-				"coverPicture": "docs/images/toxic_1x.png"
+				"coverPicture": "./images/toxic_1x.png"
 			},
 			"album": {
 				"coverAlbum": "Название обложки альбома"
