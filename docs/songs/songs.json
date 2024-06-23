@@ -16,7 +16,7 @@
 			"audio": {
 				"title": "Toxic",
 				"lyrics": "Another sample lyrics...",
-				"audioFileLink": "docs/audio/BritneySpears-Toxic.mp3",
+				"audioFileLink": "./audio/BritneySpears-Toxic.mp3",
 				"duration": 198,
 				"audioDetailLink": "https://vk.com/audio-2001299067_3299067"
 			}
